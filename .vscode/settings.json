@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "backend/env/bin/python",
+    "djangointellisense.projectRoot": "${workspaceFolder}/backend/src/"
+}
